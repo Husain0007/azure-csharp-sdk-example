@@ -17,4 +17,14 @@
   ```
       dotnet new console -n package-dotnet -f net 8.0
   ```
-  
+
+## Create ResourceGroup with C#
+
+* Navigate to the .NET project folder
+    ```
+        cd ./dotnet-project/
+    ```
+* Execute the source code
+    ```
+        dotnet run
+    ```
