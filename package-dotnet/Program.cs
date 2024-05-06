@@ -11,7 +11,6 @@ class Program
     static async Task Main(string[] args)
     {
         // Replace these variables with your own values
-        //string subscriptionId = "cd8e78dd-133a-42b8-b0e3-5645e2d03f0e";
         string resourceGroupName = "my-sdk-rg";
         string location = "westus"; //AzureLocation.WestUS2;//"westus";
 
